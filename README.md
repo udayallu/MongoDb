@@ -45,3 +45,4 @@ db.modi.find()
 ```
 db.modi.find({'name':'Chandu'})
 ```
+s
